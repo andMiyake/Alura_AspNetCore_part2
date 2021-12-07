@@ -1,0 +1,15 @@
+C:\Users\319013\Documents\Visual Studio Projects\Asp.Net Core Parte2\Parte2\Aulas\Aula1\CasaDoCodigo.Aula1\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\319013\Documents\Visual Studio Projects\Asp.Net Core Parte2\Parte2\Aulas\Aula1\CasaDoCodigo.Aula1\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\319013\Documents\Visual Studio Projects\Asp.Net Core Parte2\Parte2\Aulas\Aula1\CasaDoCodigo.Aula1\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\319013\Documents\Visual Studio Projects\Asp.Net Core Parte2\Parte2\Aulas\Aula1\CasaDoCodigo.Aula1\bin\Debug\netcoreapp2.0\livros.json
+C:\Users\319013\Documents\Visual Studio Projects\Asp.Net Core Parte2\Parte2\Aulas\Aula1\CasaDoCodigo.Aula1\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\319013\Documents\Visual Studio Projects\Asp.Net Core Parte2\Parte2\Aulas\Aula1\CasaDoCodigo.Aula1\bin\Debug\netcoreapp2.0\CasaDoCodigo.Aula1.deps.json
+C:\Users\319013\Documents\Visual Studio Projects\Asp.Net Core Parte2\Parte2\Aulas\Aula1\CasaDoCodigo.Aula1\bin\Debug\netcoreapp2.0\CasaDoCodigo.Aula1.runtimeconfig.json
+C:\Users\319013\Documents\Visual Studio Projects\Asp.Net Core Parte2\Parte2\Aulas\Aula1\CasaDoCodigo.Aula1\bin\Debug\netcoreapp2.0\CasaDoCodigo.Aula1.runtimeconfig.dev.json
+C:\Users\319013\Documents\Visual Studio Projects\Asp.Net Core Parte2\Parte2\Aulas\Aula1\CasaDoCodigo.Aula1\bin\Debug\netcoreapp2.0\CasaDoCodigo.Aula1.dll
+C:\Users\319013\Documents\Visual Studio Projects\Asp.Net Core Parte2\Parte2\Aulas\Aula1\CasaDoCodigo.Aula1\bin\Debug\netcoreapp2.0\CasaDoCodigo.Aula1.pdb
+C:\Users\319013\Documents\Visual Studio Projects\Asp.Net Core Parte2\Parte2\Aulas\Aula1\CasaDoCodigo.Aula1\obj\Debug\netcoreapp2.0\CasaDoCodigo.Aula1.csprojAssemblyReference.cache
+C:\Users\319013\Documents\Visual Studio Projects\Asp.Net Core Parte2\Parte2\Aulas\Aula1\CasaDoCodigo.Aula1\obj\Debug\netcoreapp2.0\CasaDoCodigo.Aula1.AssemblyInfoInputs.cache
+C:\Users\319013\Documents\Visual Studio Projects\Asp.Net Core Parte2\Parte2\Aulas\Aula1\CasaDoCodigo.Aula1\obj\Debug\netcoreapp2.0\CasaDoCodigo.Aula1.AssemblyInfo.cs
+C:\Users\319013\Documents\Visual Studio Projects\Asp.Net Core Parte2\Parte2\Aulas\Aula1\CasaDoCodigo.Aula1\obj\Debug\netcoreapp2.0\CasaDoCodigo.Aula1.dll
+C:\Users\319013\Documents\Visual Studio Projects\Asp.Net Core Parte2\Parte2\Aulas\Aula1\CasaDoCodigo.Aula1\obj\Debug\netcoreapp2.0\CasaDoCodigo.Aula1.pdb

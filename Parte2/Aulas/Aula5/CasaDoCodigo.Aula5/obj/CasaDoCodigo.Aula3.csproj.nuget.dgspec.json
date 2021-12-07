@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\319013\\Documents\\Visual Studio Projects\\Asp.Net Core Parte2\\Parte2\\Aulas\\Aula3\\CasaDoCodigo.Aula3\\CasaDoCodigo.Aula3.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\319013\\Documents\\Visual Studio Projects\\Asp.Net Core Parte2\\Parte2\\Aulas\\Aula3\\CasaDoCodigo.Aula3\\CasaDoCodigo.Aula3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\319013\\Documents\\Visual Studio Projects\\Asp.Net Core Parte2\\Parte2\\Aulas\\Aula3\\CasaDoCodigo.Aula3\\CasaDoCodigo.Aula3.csproj",
+        "projectName": "CasaDoCodigo.Aula3",
+        "projectPath": "C:\\Users\\319013\\Documents\\Visual Studio Projects\\Asp.Net Core Parte2\\Parte2\\Aulas\\Aula3\\CasaDoCodigo.Aula3\\CasaDoCodigo.Aula3.csproj",
+        "packagesPath": "C:\\Users\\319013\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\319013\\Documents\\Visual Studio Projects\\Asp.Net Core Parte2\\Parte2\\Aulas\\Aula3\\CasaDoCodigo.Aula3\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\319013\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://www.myget.org/F/caliburn-micro-builds/api/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.All": {
+              "target": "Package",
+              "version": "[2.0.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
